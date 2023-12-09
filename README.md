@@ -1,1 +1,1 @@
-# primary
+print("github")
